@@ -17,16 +17,16 @@ Excel Skills Applied
 ✅ Data Validation
 
 
-**Salary by Job Title
-**📊 Excel Features: Used a horizontal bar chart with formatted salary labels.
+**Salary by Job Title**
+📊 Excel Features: Used a horizontal bar chart with formatted salary labels.
 🎨 Design Choice: Sorted salaries in descending order for easy comparison.
 👀 Visualization Benefit: Makes high- and low-paying roles instantly identifiable.
 💡 Key Insight: Senior-level and engineering roles generally offer higher salaries than analyst positions.
 <img width="789" height="568" alt="image" src="https://github.com/user-attachments/assets/5a98e296-e233-4103-959c-176fc6ee73f9" />
 
 
-**Global Salary Distribution
-**🌍 Excel Features: Created a map chart to display median salaries by country.
+**Global Salary Distribution**
+🌍 Excel Features: Created a map chart to display median salaries by country.
 🎨 Design Choice: Applied color gradients to highlight salary differences across regions.
 📈 Data Representation: Visualizes salary trends on a global scale.
 💡 Key Insight: Reveals geographic variations and identifies higher- and lower-paying markets.
@@ -42,8 +42,8 @@ Excel Skills Applied
 <img width="523" height="295" alt="image" src="https://github.com/user-attachments/assets/8e1048d2-1971-4eb7-afc9-51275cee7451" />
 
 
-**Dynamic Filter Lists
-**🔍 Excel Features: Leveraged FILTER() and unique value extraction techniques.
+**Dynamic Filter Lists**
+🔍 Excel Features: Leveraged FILTER() and unique value extraction techniques.
 🎯 Purpose: Generates clean dropdown options by removing duplicates and irrelevant entries.
 📋 Benefit: Keeps dashboard filters accurate and user-friendly.
 <img width="203" height="126" alt="image" src="https://github.com/user-attachments/assets/8b50a2c9-ac9e-4d1d-bdc4-957f800bf5be" />
